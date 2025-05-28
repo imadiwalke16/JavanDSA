@@ -1,0 +1,10 @@
+In count digits 
+im given with a number i have to count total number of digits in it ,
+example- 123
+total 3 digits 
+
+now, how we count?
+we itreate over the numbers,
+till number becomes greater than zero ,
+we keep adding count each iteration by 1 till number/10 is greater than zero
+and print count 
